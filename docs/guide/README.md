@@ -1,3 +1,13 @@
-# 快速入群
+---
+layout: SpecialLayout
+---
+::: slot header
+# Here might be a page title
+:::
 
-扫码下载
+- A Paragraph
+- Another Paragraph
+
+::: slot footer
+Here's some contact info
+:::

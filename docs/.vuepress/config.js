@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'BOX定投践行群使用指南',
+  title: '定投人生使用指南',
   description: '首页',
   themeConfig: {
     nav: [
@@ -7,7 +7,7 @@ module.exports = {
       { text: '新生指南', link: '/guide/new/' },
       { text: '老生指南', link: '/guide/old/' },
       { text: '关于作者', link: '/author/' },
-      { text: '践行群官方情报站', link: 'https://ri.cms.firesbox.com' },
+      { text: '定投人生官方情报站', link: 'https://ri.cms.firesbox.com' },
     ],
     sidebar: [
       '/guide/join/',
